@@ -1,4 +1,4 @@
 # Brainwave_Matrix_Intern
-This repo is my internship period in Brainwave Matrix Solutions
 
-The datasets are over 25mb.I will provide the link to them.
+The datasets are over 25mb.So here is the Google drive link
+The link : https://drive.google.com/drive/folders/1ByadNwMrPyds53cA6SDCHLelTAvIdoF_
